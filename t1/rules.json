@@ -1,0 +1,10 @@
+[
+	"/":
+	{
+		"GET":
+		{
+			"action":"text-response",
+			"filename":"src/index.html"
+		}
+	}
+]
